@@ -1,0 +1,220 @@
+Berg
+	1. etasje
+	2. etasje
+	3. etasje
+	4. etasje
+	5. etasje
+	Kjeller
+	Sokkel
+Byggteknisk
+	1. etasje
+	2. etasje
+	Kjeller
+	Sokkel
+Driftssentralen
+	1. etasje
+	2. etasje
+	Kjeller
+Elektroblokk A
+	1. etasje
+	2. etasje
+	3. etasje
+	4. etasje
+	Kjeller
+	Underkjeller
+Elektroblokk B
+	1. etasje
+	2. etasje
+	3. etasje
+	4. etasje
+Elektroblokk C
+	1. etasje
+	2. etasje
+	3. etasje
+	4. etasje
+	5. etasje
+Elektroblokk D+B2
+	1. etasje
+	2. etasje
+	3. etasje
+	4. etasje
+	Kjeller
+	Underkjeller
+Elektroblokk E
+	1. etasje
+	2. etasje
+	3. etasje
+	4. etasje
+	Underkjeller
+Gamle Elektro
+	1. etasje
+	2. etasje
+	2. etasje mesanin
+	Kjeller
+Gamle Fysikk
+	1. etasje
+	2. etasje
+	3. etasje
+	Kjeller
+Gamle kjemi
+	1. etasje
+	Kjeller
+Geologi
+	1. etasje
+	2. etasje
+	3. etasje
+	4. etasje
+	Sokkel
+Gl\u00f8s \u00f8stre
+	1. Etasje
+Hovedbygget
+	1. etasje
+	2. etasje
+	3. etasje
+	4. etasje
+	Kjeller
+	Kjeller mesanin
+IT-Syd
+	1. etasje
+	2. etasje
+	Kjeller
+IT-Vest
+	1. etasje
+	2. etasje
+	3. etasje
+	4. etasje
+	Kjeller
+	Sokkel
+Idrettsbygget
+	1. etasje
+Internasjonalt Hus
+	2. etasje
+Kjemi 1
+	1. etasje
+	2. etasje
+	3. etasje
+	4. etasje
+	Kjeller
+Kjemi 2
+	1. etasje
+	2. etasje
+	3. etasje
+	4. etasje
+	Kjeller
+Kjemi 3
+	1. etasje
+	2. etasje
+	3. etasje
+	4. etasje
+	Kjeller
+Kjemi 4
+	1. etasje
+	2. etasje
+	3. etasje
+	4. etasje
+	Kjeller
+Kjemi 5
+	1. etasje
+	3. etasje
+	4. etasje
+	Kjeller
+Kjemi Sydfl
+	1. etasje
+Kjemihall
+	1. etasje
+	2. etasje
+	3. etasje
+Materialteknisk
+	1. etasje
+	2. etasje
+	3. etasje
+	Kjeller
+Metallurgi
+	1. etasje
+	2. etasje
+Oppredning/Gruvedrift
+	1. etasje
+	2. etasje
+	3. etasje
+	4. etasje
+	5. etasje
+P15
+	1. etasje
+	2. etasje
+	3. etasje
+	4. etasje
+	5. etasje
+	Kjeller
+PFI
+	1. etasje
+	3. etasje
+	5. etasje
+Produktdesign
+	1. etasje
+	2. etasje
+	3. etasje
+Realfagbygget
+	1. etasje
+	1. underetasje
+	2. etasje
+	2. underetasje
+	3. etasje
+	3. underetasje
+	4. etasje
+	4. underetasje
+	5. etasje
+Sentralbygg I
+	1. etasje
+	10. etasje
+	11. etasje
+	12. etasjen
+	13. etasje
+	2. etasje
+	3. etasje
+	4. etasje
+	5. etasje
+	6. etasje
+	7. etasje
+	8. etasje
+	9. etasje
+Sentralbygg II
+	1. etasje
+	10. etasje
+	11. etasje
+	12. etasje
+	13. etasje
+	2. etasje
+	3. etasje
+	6. etasje
+	7. etasje
+	8. etasje
+	9. etasje
+Skiboli
+	1. etasje
+Str\u00f8mningsteknisk
+	1. etasje
+	2. etasje
+	3. etasje
+	Kjeller
+VM-Pav
+	1. etasje
+	2. etasje
+Vannkraftlaboratoriet
+	2. etasje
+	3. etasje
+	4. etasje
+Varmeteknisk og Kjelhuset
+	1. etasje
+	2. etasje
+	3. etasje
+	4. etasje
+	5. etasje
+	6. etasje
+	Kjeller
+Verkstedteknisk
+	1. etasje
+	1. etasje mesanin
+	2. etasje
+	3. etasje
+	4. etasje
+	5. etasje
