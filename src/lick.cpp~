@@ -26,7 +26,7 @@ int
 			throw std::runtime_error("usage: lick [shm_in] [...]");
 
 	
-		mouth_t mouth(argc,argv);
+		mouth_t mouth(argv[1]);
 		tongue::building_map_t tongue(argc,argv);
 		mouth(tongue);
 

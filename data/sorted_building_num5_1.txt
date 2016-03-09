@@ -1,0 +1,40 @@
+Realfagbygget: 2931575
+Sentralbygg I: 1036664
+Hovedbygget: 878647
+Sentralbygg II: 854077
+Varmeteknisk og Kjelhuset: 814853
+Byggteknisk: 746359
+Gamle Elektro: 640193
+Verkstedteknisk: 596234
+Materialteknisk: 493824
+IT-Syd: 491728
+P15: 359132
+Berg: 303621
+Elektroblokk A: 293541
+Gamle Fysikk: 279783
+Kjemihall: 267360
+Idrettsbygget: 267136
+Elektroblokk D+B2: 265934
+Driftssentralen: 233814
+Kjemi 4: 226185
+IT-Vest: 211167
+Kjemi 2: 199611
+Produktdesign: 175835
+Kjemi 3: 173207
+Elektroblokk E: 166034
+Gamle kjemi: 165333
+Elektroblokk B: 153562
+Str\u00f8mningsteknisk: 126024
+Kjemi 1: 117934
+Kjemi 5: 107776
+PFI: 106238
+Oppredning/Gruvedrift: 102992
+Geologi: 99058
+Elektroblokk C: 86845
+Metallurgi: 63485
+Vannkraftlaboratoriet: 56254
+Internasjonalt Hus: 49062
+VM-Pav: 46718
+Kjemi Sydfl: 15332
+Skiboli: 3022
+Gl\u00f8s \u00f8stre: 907
