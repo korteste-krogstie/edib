@@ -1,6 +1,6 @@
 ########################################################################
 # Builds a list of 7 elements: sunday - saturday
-# Each element is a data-frame of 288 rows and 11 columns
+# Each element is a data-frame of 288 rows and 12 columns
 #   rows: 00:01 - 23:56
 #   cols: time + week 5 - 14
 #       cells: time in the time-col, amount of people in the week cols
@@ -8,12 +8,12 @@
 require(gdata)
 library(lubridate)
 ########################################################################
-file_list  <- list(5, 6, 7, 8, 9, 10, 11, 12, 13, 14)
+file_list  <- list(5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15)
 day_names <- list("sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday")
-clock = get(load("data/time.RData"))
+clock = get(load("data/clock.RData"))
 data <- list()
 ########################################################################
-for (day_num in 1:7){
+for (day_num in 5:7){
     day <- data.frame(matrix(cbind(clock)))
     colnames(day)[1] <- day_names[day_num]
     for (week_num in file_list){
